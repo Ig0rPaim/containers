@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nR0Zpj/SV5YWHjllHUZ/EuXf5MeWyQTeUNJMRE/l/14=",
+  "Source": "teste_docker_api",
+  "BasePath": "_content/teste_docker_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
