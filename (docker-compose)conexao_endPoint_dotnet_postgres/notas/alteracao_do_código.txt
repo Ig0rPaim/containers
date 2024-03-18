@@ -1,0 +1,4 @@
+Em caso de altereção do coódigo fonte ou do dockerfile é necessário buildar o docker-compose novamente
+comando: docker-compose build --no-cache (o --no-cache explicita que as images devem ser buildadas novamente, mesmo que já existam)
+comando: docker-compose up --build (reiniciar os containers, o --build garante que as imagens sejam reconstruidas)
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNRf5JbyQ6q98iqD3wK+cVD0YgMTtRE/6CPt7DHDFIk3vpFU/foMi3Zxh3DK5hSogQdJ+l48rHjKfy3MI38qOw==",
+  "dgSpecHash": "RjdyjZXoPD7nRtQRjrcIpzz696zSkYoR53Lu+JAwnL2gpq2DinBW7kOR4zP7P/Pph/Ioidp9rSRxAIljGElIwg==",
   "success": true,
-  "projectFilePath": "/home/khan/Área de Trabalho/learnig_docker/conexao_endPoint_dotnet_postgres/teste_docker_api/teste_docker_api.csproj",
+  "projectFilePath": "/home/khan/Área de Trabalho/learning_containers/conexao_endPoint_dotnet_postgres/teste_docker_api/teste_docker_api.csproj",
   "expectedPackageFiles": [
     "/home/khan/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
     "/home/khan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

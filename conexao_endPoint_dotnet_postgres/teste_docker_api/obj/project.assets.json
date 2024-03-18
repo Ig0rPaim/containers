@@ -689,11 +689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/khan/Área de Trabalho/learnig_docker/conexao_endPoint_dotnet_postgres/teste_docker_api/teste_docker_api.csproj",
+      "projectUniqueName": "/home/khan/Área de Trabalho/learning_containers/conexao_endPoint_dotnet_postgres/teste_docker_api/teste_docker_api.csproj",
       "projectName": "teste_docker_api",
-      "projectPath": "/home/khan/Área de Trabalho/learnig_docker/conexao_endPoint_dotnet_postgres/teste_docker_api/teste_docker_api.csproj",
+      "projectPath": "/home/khan/Área de Trabalho/learning_containers/conexao_endPoint_dotnet_postgres/teste_docker_api/teste_docker_api.csproj",
       "packagesPath": "/home/khan/.nuget/packages/",
-      "outputPath": "/home/khan/Área de Trabalho/learnig_docker/conexao_endPoint_dotnet_postgres/teste_docker_api/obj/",
+      "outputPath": "/home/khan/Área de Trabalho/learning_containers/conexao_endPoint_dotnet_postgres/teste_docker_api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/khan/.nuget/NuGet/NuGet.Config"
